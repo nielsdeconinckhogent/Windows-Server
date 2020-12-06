@@ -1,0 +1,5 @@
+OUName,OUPath
+Corona,"DC=NIELS,DC=CORONA"
+Management,"OU=Corona,DC=NIELS,DC=CORONA"
+Boekhouding,"OU=Corona,DC=NIELS,DC=CORONA"
+Verkoop,"OU=Corona,DC=NIELS,DC=CORONA"
